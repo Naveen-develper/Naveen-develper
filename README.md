@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Naveen SAMPATH 👋</h1>
+<h1 align="center">Hey, I'm Naveen Sampath 👋</h1>
 
 <h3 align="center">
   AI-Native Software Engineer | Full-Stack Development | Applied AI
