@@ -40,9 +40,11 @@ I enjoy designing and developing software solutions that combine strong engineer
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java" />
 </p>
 
+- SQL
+ 
 ### Frontend & Mobile Development
 
 <p>
